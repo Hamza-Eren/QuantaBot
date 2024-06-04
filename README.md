@@ -72,3 +72,6 @@ Steps to follow for use;
 </script>
 
 - Congratulations. Your code is ready.
+
+---
+#### _If you want to ask anything: herensarpdag@gmail.com_
