@@ -36,6 +36,8 @@ Kullanım için izlenecek adımlar;
 
 - Tebrikler. Kodunuz hazır.
 
+#### _Herhangi bir şey sormak isterseniz: herensarpdag@gmail.com_
+
 ---
 #### > English
 This code is a desktop chatbot code that uses OpenAI API, Firebase Realtime Database, React and Electron Frameworks.
@@ -73,5 +75,4 @@ Steps to follow for use;
 
 - Congratulations. Your code is ready.
 
----
 #### _If you want to ask anything: herensarpdag@gmail.com_
