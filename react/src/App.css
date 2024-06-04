@@ -1,0 +1,19 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  height: 100vh;
+  background-color: rgb(95, 95, 95);
+}
+
+#response-area {
+  -ms-overflow-style: none;  /* Internet Explorer 10+ */
+  scrollbar-width: none;  /* Firefox */
+  position: absolute;
+  overflow: auto;
+  width: 100%;
+  max-height: calc(100% - 70px);
+}
+
+#response-area::-webkit-scrollbar { 
+  display: none;  /* Safari and Chrome */
+}

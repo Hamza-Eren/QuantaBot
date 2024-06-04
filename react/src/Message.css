@@ -1,0 +1,59 @@
+.card {
+    border: none;
+    border-radius: 4px;
+    background-color: rgb(95, 95, 95);
+    margin: 10px;
+    color: white;
+}
+
+.user-img {
+    margin-top: 4px;
+}
+
+.name {
+    position: relative;
+}
+
+.reply {
+    position: relative;
+    margin-left: 15px;
+    margin-top: -15px;
+}
+
+.icon-md {
+    stroke-width: 2.5;
+    flex-shrink: 0;
+    height: 18px;
+    width: 18px;
+    display: block;
+}
+
+.button-md {
+    padding: .25rem;
+    cursor: pointer;
+    margin-left: 35px;
+    background-color: transparent;
+    color: white;
+    border: none;
+}
+
+button:focus {
+    outline: none;
+    animation-name: copy-button;
+    animation-duration: 500ms;
+}
+
+@keyframes copy-button {
+    50% {
+        transform: scale(1.15) rotate(10deg);
+    }
+}
+
+.unselectable {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
