@@ -76,3 +76,9 @@ Steps to follow for use;
 - Congratulations. Your code is ready.
 
 #### _If you want to ask anything: herensarpdag@gmail.com_
+
+
+## Örnek Resimler
+
+![QuantaBot](https://github.com/Hamza-Eren/QuantaBot/blob/main/images/quantabot.png)
+> Uygulama ekranı
