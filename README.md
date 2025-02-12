@@ -79,6 +79,5 @@ Steps to follow for use;
 
 
 ## Örnek Resimler
-
-![QuantaBot](https://github.com/Hamza-Eren/QuantaBot/blob/main/images/quantabot.png)
+![QuantaBot](https://github.com/Hamza-Eren/QuantaBot/blob/main/images/QuantaBot.png)
 > Uygulama ekranı
